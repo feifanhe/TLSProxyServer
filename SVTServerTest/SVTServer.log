@@ -1,0 +1,19 @@
+2017/09/28 18:07:18 Srarting SVTServer Interface...
+2017/09/28 18:07:18 Cmd: 2, Param: ca.crt;ca.key;ca.crt
+2017/09/28 18:07:18 SVTServer Interface started.
+2017/09/28 18:07:18 Waiting for command.
+2017/09/28 18:07:18 Command: 2, Parameter: ca.crt;ca.key;ca.crt
+2017/09/28 18:07:18 Set keys from files: ca.crt;ca.key;ca.crt
+2017/09/28 18:07:18 Set keys: ca.crt, ca.key, ca.crt
+2017/09/28 18:07:18 Waiting for command.
+2017/09/28 18:07:18 Cmd: 0, Param: :8800
+2017/09/28 18:07:18 Command: 0, Parameter: :8800
+2017/09/28 18:07:18 Start SVTServer
+2017/09/28 18:07:18 Listening for incoming connections at: [::]:8800
+2017/09/28 18:07:18 Waiting for command.
+2017/09/28 18:08:05 Cmd: 1, Param: 
+2017/09/28 18:08:05 Command: 1, Parameter: 
+2017/09/28 18:08:05 Waiting for command.
+2017/09/28 18:08:05 Cmd: -1, Param: 
+2017/09/28 18:08:05 Command: -1, Parameter: 
+2017/09/28 18:08:05 SVTServer Interface stopped.

@@ -1,0 +1,372 @@
+2017/10/30 16:28:13 Srarting SVTServer Interface...
+2017/10/30 16:28:13 Cmd: 2, Param: ca.crt;ca.key;ca.crt
+2017/10/30 16:28:13 SVTServer Interface started.
+2017/10/30 16:28:13 Waiting for command.
+2017/10/30 16:28:13 Command: 2, Parameter: ca.crt;ca.key;ca.crt
+2017/10/30 16:28:13 Set keys from files: ca.crt;ca.key;ca.crt
+2017/10/30 16:28:13 Set keys: E:\TLSProxy\src\SVTServer\Debug\ca.crt, E:\TLSProxy\src\SVTServer\Debug\ca.key, E:\TLSProxy\src\SVTServer\Debug\ca.crt
+2017/10/30 16:28:13 Waiting for command.
+2017/10/30 16:28:13 Cmd: 0, Param: :8800
+2017/10/30 16:28:13 Command: 0, Parameter: :8800
+2017/10/30 16:28:13 Start SVTServer
+2017/10/30 16:28:13 Listening for incoming connections at: [::]:8800
+2017/10/30 16:28:13 Waiting for command.
+2017/10/31 15:51:38 Srarting SVTServer Interface...
+2017/10/31 15:51:38 Cmd: 2, Param: ca.crt;ca.key;ca.crt
+2017/10/31 15:51:38 SVTServer Interface started.
+2017/10/31 15:51:38 Waiting for command.
+2017/10/31 15:51:38 Command: 2, Parameter: ca.crt;ca.key;ca.crt
+2017/10/31 15:51:38 Set keys from files: ca.crt;ca.key;ca.crt
+2017/10/31 15:51:38 Set keys: E:\TLSProxy\src\SVTServer\Debug\ca.crt, E:\TLSProxy\src\SVTServer\Debug\ca.key, E:\TLSProxy\src\SVTServer\Debug\ca.crt
+2017/10/31 15:51:38 Waiting for command.
+2017/10/31 15:51:38 Cmd: 0, Param: :8800
+2017/10/31 15:51:38 Command: 0, Parameter: :8800
+2017/10/31 15:51:38 Start SVTServer
+2017/10/31 15:51:38 Listening for incoming connections at: [::]:8800
+2017/10/31 15:51:38 Waiting for command.
+2017/10/31 15:54:07 Cmd: 1, Param: 
+2017/10/31 15:54:07 Command: 1, Parameter: 
+2017/10/31 15:54:07 Waiting for command.
+2017/10/31 15:54:07 Cmd: -1, Param: 
+2017/10/31 15:54:07 Listener failed to accept: accept tcp [::]:8800: use of closed network connection
+2017/10/31 15:54:07 Command: -1, Parameter: 
+2017/10/31 15:54:07 SVTServer Interface stopped.
+2017/10/31 15:54:11 Srarting SVTServer Interface...
+2017/10/31 15:54:12 Cmd: 2, Param: ca.crt;ca.key;ca.crt
+2017/10/31 15:54:12 SVTServer Interface started.
+2017/10/31 15:54:12 Waiting for command.
+2017/10/31 15:54:12 Command: 2, Parameter: ca.crt;ca.key;ca.crt
+2017/10/31 15:54:12 Set keys from files: ca.crt;ca.key;ca.crt
+2017/10/31 15:54:12 Set keys: E:\TLSProxy\src\SVTServer\Debug\ca.crt, E:\TLSProxy\src\SVTServer\Debug\ca.key, E:\TLSProxy\src\SVTServer\Debug\ca.crt
+2017/10/31 15:54:12 Waiting for command.
+2017/10/31 15:54:12 Cmd: 0, Param: :8800
+2017/10/31 15:54:12 Command: 0, Parameter: :8800
+2017/10/31 15:54:12 Start SVTServer
+2017/10/31 15:54:12 Listening for incoming connections at: [::]:8800
+2017/10/31 15:54:12 Waiting for command.
+2017/10/31 18:08:21 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:36 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:36 Copying from 127.0.0.1:54932 to 10.1.1.99:80
+2017/10/31 18:08:36 Copying from 127.0.0.1:54931 to 10.1.1.99:80
+2017/10/31 18:08:36 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:36 Copying from 127.0.0.1:54936 to 10.1.1.99:80
+2017/10/31 18:08:36 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:36 Copying from 127.0.0.1:54938 to 10.1.1.99:80
+2017/10/31 18:08:36 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:36 Copying from 127.0.0.1:54942 to 10.1.1.99:80
+2017/10/31 18:08:36 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:36 Copying from 127.0.0.1:54944 to 10.1.1.99:80
+2017/10/31 18:08:37 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:37 Copying from 127.0.0.1:54947 to 10.1.1.99:80
+2017/10/31 18:08:37 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:37 Copying from 127.0.0.1:54950 to 10.1.1.99:80
+2017/10/31 18:08:37 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:37 Copying from 127.0.0.1:54953 to 10.1.1.99:80
+2017/10/31 18:08:37 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:37 Copying from 127.0.0.1:54956 to 10.1.1.99:80
+2017/10/31 18:08:37 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:37 Copying from 127.0.0.1:54959 to 10.1.1.99:80
+2017/10/31 18:08:37 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:37 Copying from 127.0.0.1:54962 to 10.1.1.99:80
+2017/10/31 18:08:37 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:37 Copying from 127.0.0.1:54965 to 10.1.1.99:80
+2017/10/31 18:08:37 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:37 Copying from 127.0.0.1:54968 to 10.1.1.99:80
+2017/10/31 18:08:37 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:37 Copying from 127.0.0.1:54971 to 10.1.1.99:80
+2017/10/31 18:08:37 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:37 Copying from 127.0.0.1:54974 to 10.1.1.99:80
+2017/10/31 18:08:37 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:37 Copying from 127.0.0.1:54977 to 10.1.1.99:80
+2017/10/31 18:08:37 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:37 Copying from 127.0.0.1:54980 to 10.1.1.99:80
+2017/10/31 18:08:38 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:38 Copying from 127.0.0.1:54983 to 10.1.1.99:80
+2017/10/31 18:08:38 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:38 Copying from 127.0.0.1:54986 to 10.1.1.99:80
+2017/10/31 18:08:38 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:38 Copying from 127.0.0.1:54989 to 10.1.1.99:80
+2017/10/31 18:08:38 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:38 Copying from 127.0.0.1:54992 to 10.1.1.99:80
+2017/10/31 18:08:38 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:38 Copying from 127.0.0.1:54995 to 10.1.1.99:80
+2017/10/31 18:08:38 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:38 Copying from 127.0.0.1:54998 to 10.1.1.99:80
+2017/10/31 18:08:38 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:38 Copying from 127.0.0.1:55001 to 10.1.1.99:80
+2017/10/31 18:08:38 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:38 Copying from 127.0.0.1:55004 to 10.1.1.99:80
+2017/10/31 18:08:38 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:38 Copying from 127.0.0.1:55007 to 10.1.1.99:80
+2017/10/31 18:08:38 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:38 Copying from 127.0.0.1:55010 to 10.1.1.99:80
+2017/10/31 18:08:38 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:38 Copying from 127.0.0.1:55013 to 10.1.1.99:80
+2017/10/31 18:08:38 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:38 Copying from 127.0.0.1:55016 to 10.1.1.99:80
+2017/10/31 18:08:38 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:39 Copying from 127.0.0.1:55019 to 10.1.1.99:80
+2017/10/31 18:08:39 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:39 Copying from 127.0.0.1:55022 to 10.1.1.99:80
+2017/10/31 18:08:39 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:39 Copying from 127.0.0.1:55025 to 10.1.1.99:80
+2017/10/31 18:08:39 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:39 Copying from 127.0.0.1:55028 to 10.1.1.99:80
+2017/10/31 18:08:39 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:39 Copying from 127.0.0.1:55031 to 10.1.1.99:80
+2017/10/31 18:08:39 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:39 Copying from 127.0.0.1:55034 to 10.1.1.99:80
+2017/10/31 18:08:39 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:39 Copying from 127.0.0.1:55037 to 10.1.1.99:80
+2017/10/31 18:08:39 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:39 Copying from 127.0.0.1:55040 to 10.1.1.99:80
+2017/10/31 18:08:39 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:39 Copying from 127.0.0.1:55043 to 10.1.1.99:80
+2017/10/31 18:08:39 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:39 Copying from 127.0.0.1:55046 to 10.1.1.99:80
+2017/10/31 18:08:39 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:39 Copying from 127.0.0.1:55049 to 10.1.1.99:80
+2017/10/31 18:08:39 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:39 Copying from 127.0.0.1:55052 to 10.1.1.99:80
+2017/10/31 18:08:39 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:39 Copying from 127.0.0.1:55055 to 10.1.1.99:80
+2017/10/31 18:08:39 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:39 Copying from 127.0.0.1:55058 to 10.1.1.99:80
+2017/10/31 18:08:40 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:40 Copying from 127.0.0.1:55061 to 10.1.1.99:80
+2017/10/31 18:08:40 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:40 Copying from 127.0.0.1:55064 to 10.1.1.99:80
+2017/10/31 18:08:40 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:40 Copying from 127.0.0.1:55067 to 10.1.1.99:80
+2017/10/31 18:08:40 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:40 Copying from 127.0.0.1:55070 to 10.1.1.99:80
+2017/10/31 18:08:40 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:40 Copying from 127.0.0.1:55073 to 10.1.1.99:80
+2017/10/31 18:08:40 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:40 Copying from 127.0.0.1:55076 to 10.1.1.99:80
+2017/10/31 18:08:40 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:40 Copying from 127.0.0.1:55079 to 10.1.1.99:80
+2017/10/31 18:08:40 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:40 Copying from 127.0.0.1:55082 to 10.1.1.99:80
+2017/10/31 18:08:40 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:40 Copying from 127.0.0.1:55085 to 10.1.1.99:80
+2017/10/31 18:08:40 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:40 Copying from 127.0.0.1:55088 to 10.1.1.99:80
+2017/10/31 18:08:40 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:40 Copying from 127.0.0.1:55091 to 10.1.1.99:80
+2017/10/31 18:08:40 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:40 Copying from 127.0.0.1:55094 to 10.1.1.99:80
+2017/10/31 18:08:40 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:40 Copying from 127.0.0.1:55097 to 10.1.1.99:80
+2017/10/31 18:08:40 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:41 Copying from 127.0.0.1:55100 to 10.1.1.99:80
+2017/10/31 18:08:41 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:41 Copying from 127.0.0.1:55103 to 10.1.1.99:80
+2017/10/31 18:08:41 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:41 Copying from 127.0.0.1:55106 to 10.1.1.99:80
+2017/10/31 18:08:41 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:41 Copying from 127.0.0.1:55109 to 10.1.1.99:80
+2017/10/31 18:08:41 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:41 Copying from 127.0.0.1:55112 to 10.1.1.99:80
+2017/10/31 18:08:41 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:41 Copying from 127.0.0.1:55115 to 10.1.1.99:80
+2017/10/31 18:08:41 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:41 Copying from 127.0.0.1:55118 to 10.1.1.99:80
+2017/10/31 18:08:41 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:41 Copying from 127.0.0.1:55121 to 10.1.1.99:80
+2017/10/31 18:08:41 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:41 Copying from 127.0.0.1:55124 to 10.1.1.99:80
+2017/10/31 18:08:41 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:41 Copying from 127.0.0.1:55127 to 10.1.1.99:80
+2017/10/31 18:08:41 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:41 Copying from 127.0.0.1:55130 to 10.1.1.99:80
+2017/10/31 18:08:41 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:41 Copying from 127.0.0.1:55133 to 10.1.1.99:80
+2017/10/31 18:08:41 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:41 Copying from 127.0.0.1:55136 to 10.1.1.99:80
+2017/10/31 18:08:42 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:42 Copying from 127.0.0.1:55139 to 10.1.1.99:80
+2017/10/31 18:08:42 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:42 Copying from 127.0.0.1:55142 to 10.1.1.99:80
+2017/10/31 18:08:42 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:42 Copying from 127.0.0.1:55145 to 10.1.1.99:80
+2017/10/31 18:08:42 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:42 Copying from 127.0.0.1:55148 to 10.1.1.99:80
+2017/10/31 18:08:42 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:42 Copying from 127.0.0.1:55151 to 10.1.1.99:80
+2017/10/31 18:08:42 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:42 Copying from 127.0.0.1:55154 to 10.1.1.99:80
+2017/10/31 18:08:42 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:42 Copying from 127.0.0.1:55157 to 10.1.1.99:80
+2017/10/31 18:08:42 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:42 Copying from 127.0.0.1:55160 to 10.1.1.99:80
+2017/10/31 18:08:42 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:42 Copying from 127.0.0.1:55163 to 10.1.1.99:80
+2017/10/31 18:08:42 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:42 Copying from 127.0.0.1:55166 to 10.1.1.99:80
+2017/10/31 18:08:42 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:42 Copying from 127.0.0.1:55169 to 10.1.1.99:80
+2017/10/31 18:08:42 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:42 Copying from 127.0.0.1:55172 to 10.1.1.99:80
+2017/10/31 18:08:42 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:42 Copying from 127.0.0.1:55175 to 10.1.1.99:80
+2017/10/31 18:08:42 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:43 Copying from 127.0.0.1:55178 to 10.1.1.99:80
+2017/10/31 18:08:43 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:43 Copying from 127.0.0.1:55181 to 10.1.1.99:80
+2017/10/31 18:08:43 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:43 Copying from 127.0.0.1:55184 to 10.1.1.99:80
+2017/10/31 18:08:43 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:43 Copying from 127.0.0.1:55187 to 10.1.1.99:80
+2017/10/31 18:08:43 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:43 Copying from 127.0.0.1:55190 to 10.1.1.99:80
+2017/10/31 18:08:43 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:43 Copying from 127.0.0.1:55193 to 10.1.1.99:80
+2017/10/31 18:08:43 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:43 Copying from 127.0.0.1:55196 to 10.1.1.99:80
+2017/10/31 18:08:43 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:43 Copying from 127.0.0.1:55199 to 10.1.1.99:80
+2017/10/31 18:08:43 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:43 Copying from 127.0.0.1:55202 to 10.1.1.99:80
+2017/10/31 18:08:43 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:43 Copying from 127.0.0.1:55205 to 10.1.1.99:80
+2017/10/31 18:08:43 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:43 Copying from 127.0.0.1:55208 to 10.1.1.99:80
+2017/10/31 18:08:43 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:43 Copying from 127.0.0.1:55211 to 10.1.1.99:80
+2017/10/31 18:08:43 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:43 Copying from 127.0.0.1:55214 to 10.1.1.99:80
+2017/10/31 18:08:43 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:44 Copying from 127.0.0.1:55217 to 10.1.1.99:80
+2017/10/31 18:08:44 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:44 Copying from 127.0.0.1:55220 to 10.1.1.99:80
+2017/10/31 18:08:44 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:44 Copying from 127.0.0.1:55223 to 10.1.1.99:80
+2017/10/31 18:08:44 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:44 Copying from 127.0.0.1:55226 to 10.1.1.99:80
+2017/10/31 18:08:44 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:44 Copying from 127.0.0.1:55229 to 10.1.1.99:80
+2017/10/31 18:08:44 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:44 Copying from 127.0.0.1:55232 to 10.1.1.99:80
+2017/10/31 18:08:44 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:44 Copying from 127.0.0.1:55235 to 10.1.1.99:80
+2017/10/31 18:08:44 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:44 Copying from 127.0.0.1:55238 to 10.1.1.99:80
+2017/10/31 18:08:44 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:44 Copying from 127.0.0.1:55241 to 10.1.1.99:80
+2017/10/31 18:08:44 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:44 Copying from 127.0.0.1:55244 to 10.1.1.99:80
+2017/10/31 18:08:44 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:44 Copying from 127.0.0.1:55247 to 10.1.1.99:80
+2017/10/31 18:08:44 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:44 Copying from 127.0.0.1:55250 to 10.1.1.99:80
+2017/10/31 18:08:44 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:44 Copying from 127.0.0.1:55253 to 10.1.1.99:80
+2017/10/31 18:08:44 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:44 Copying from 127.0.0.1:55256 to 10.1.1.99:80
+2017/10/31 18:08:45 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:45 Copying from 127.0.0.1:55259 to 10.1.1.99:80
+2017/10/31 18:08:45 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:45 Copying from 127.0.0.1:55262 to 10.1.1.99:80
+2017/10/31 18:08:45 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:45 Copying from 127.0.0.1:55265 to 10.1.1.99:80
+2017/10/31 18:08:45 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:45 Copying from 127.0.0.1:55268 to 10.1.1.99:80
+2017/10/31 18:08:45 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:45 Copying from 127.0.0.1:55271 to 10.1.1.99:80
+2017/10/31 18:08:45 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:45 Copying from 127.0.0.1:55274 to 10.1.1.99:80
+2017/10/31 18:08:45 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:45 Copying from 127.0.0.1:55277 to 10.1.1.99:80
+2017/10/31 18:08:45 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:45 Copying from 127.0.0.1:55280 to 10.1.1.99:80
+2017/10/31 18:08:47 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:47 Copying from 127.0.0.1:55283 to 10.1.1.99:80
+2017/10/31 18:08:47 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:47 Copying from 127.0.0.1:55286 to 10.1.1.99:80
+2017/10/31 18:08:47 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:47 Copying from 127.0.0.1:55289 to 10.1.1.99:80
+2017/10/31 18:08:47 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:47 Copying from 127.0.0.1:55292 to 10.1.1.99:80
+2017/10/31 18:08:47 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:47 Copying from 127.0.0.1:55295 to 10.1.1.99:80
+2017/10/31 18:08:47 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:47 Copying from 127.0.0.1:55298 to 10.1.1.99:80
+2017/10/31 18:08:47 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:47 Copying from 127.0.0.1:55301 to 10.1.1.99:80
+2017/10/31 18:08:47 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:47 Copying from 127.0.0.1:55304 to 10.1.1.99:80
+2017/10/31 18:08:47 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:48 Copying from 127.0.0.1:55307 to 10.1.1.99:80
+2017/10/31 18:08:48 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:48 Copying from 127.0.0.1:55310 to 10.1.1.99:80
+2017/10/31 18:08:48 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:48 Copying from 127.0.0.1:55313 to 10.1.1.99:80
+2017/10/31 18:08:48 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:48 Copying from 127.0.0.1:55316 to 10.1.1.99:80
+2017/10/31 18:08:48 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:48 Copying from 127.0.0.1:55319 to 10.1.1.99:80
+2017/10/31 18:08:49 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:49 Copying from 127.0.0.1:55322 to 10.1.1.99:80
+2017/10/31 18:08:49 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:49 Copying from 127.0.0.1:55325 to 10.1.1.99:80
+2017/10/31 18:08:49 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:49 Copying from 127.0.0.1:55328 to 10.1.1.99:80
+2017/10/31 18:08:49 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:49 Copying from 127.0.0.1:55331 to 10.1.1.99:80
+2017/10/31 18:08:49 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:49 Copying from 127.0.0.1:55334 to 10.1.1.99:80
+2017/10/31 18:08:49 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:49 Copying from 127.0.0.1:55337 to 10.1.1.99:80
+2017/10/31 18:08:49 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:49 Copying from 127.0.0.1:55340 to 10.1.1.99:80
+2017/10/31 18:08:49 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:49 Copying from 127.0.0.1:55343 to 10.1.1.99:80
+2017/10/31 18:08:49 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:49 Copying from 127.0.0.1:55346 to 10.1.1.99:80
+2017/10/31 18:08:49 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:49 Copying from 127.0.0.1:55349 to 10.1.1.99:80
+2017/10/31 18:08:49 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:49 Copying from 127.0.0.1:55352 to 10.1.1.99:80
+2017/10/31 18:08:49 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:49 Copying from 127.0.0.1:55355 to 10.1.1.99:80
+2017/10/31 18:08:49 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:49 Copying from 127.0.0.1:55358 to 10.1.1.99:80
+2017/10/31 18:08:49 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:49 Copying from 127.0.0.1:55361 to 10.1.1.99:80
+2017/10/31 18:08:50 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:50 Copying from 127.0.0.1:55364 to 10.1.1.99:80
+2017/10/31 18:08:50 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:50 Copying from 127.0.0.1:55367 to 10.1.1.99:80
+2017/10/31 18:08:50 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:50 Copying from 127.0.0.1:55370 to 10.1.1.99:80
+2017/10/31 18:08:50 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:50 Copying from 127.0.0.1:55373 to 10.1.1.99:80
+2017/10/31 18:08:50 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:50 Copying from 127.0.0.1:55376 to 10.1.1.99:80
+2017/10/31 18:08:50 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:50 Copying from 127.0.0.1:55379 to 10.1.1.99:80
+2017/10/31 18:08:50 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:50 Copying from 127.0.0.1:55382 to 10.1.1.99:80
+2017/10/31 18:08:50 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:50 Copying from 127.0.0.1:55385 to 10.1.1.99:80
+2017/10/31 18:08:50 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:50 Copying from 127.0.0.1:55388 to 10.1.1.99:80
+2017/10/31 18:08:50 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:50 Copying from 127.0.0.1:55391 to 10.1.1.99:80
+2017/10/31 18:08:50 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:50 Copying from 127.0.0.1:55394 to 10.1.1.99:80
+2017/10/31 18:08:50 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:50 Copying from 127.0.0.1:55397 to 10.1.1.99:80
+2017/10/31 18:08:51 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:51 Copying from 127.0.0.1:55400 to 10.1.1.99:80
+2017/10/31 18:08:51 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:51 Copying from 127.0.0.1:55403 to 10.1.1.99:80
+2017/10/31 18:08:51 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:51 Copying from 127.0.0.1:55406 to 10.1.1.99:80
+2017/10/31 18:08:51 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:51 Copying from 127.0.0.1:55409 to 10.1.1.99:80
+2017/10/31 18:08:51 Read remote address: 10.1.1.99:80
+2017/10/31 18:08:51 Copying from 127.0.0.1:55412 to 10.1.1.99:80
+2017/10/31 18:08:51 Fail to read remote address
+2017/10/31 18:08:51 Fail to read remote address

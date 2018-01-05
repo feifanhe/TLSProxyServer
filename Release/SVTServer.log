@@ -1,0 +1,90 @@
+2017/11/01 09:18:38 Srarting SVTServer Interface...
+2017/11/01 09:18:38 SVTServer Interface started.
+2017/11/01 09:18:38 Waiting for command.
+2017/11/01 09:18:38 Cmd: 2, Param: ca.crt;ca.key;ca.crt
+2017/11/01 09:18:38 Command: 2, Parameter: ca.crt;ca.key;ca.crt
+2017/11/01 09:18:38 Set keys from files: ca.crt;ca.key;ca.crt
+2017/11/01 09:18:38 Set keys: D:\Workspaces\TLSProxy\src\SVTServer\Release\ca.crt, D:\Workspaces\TLSProxy\src\SVTServer\Release\ca.key, D:\Workspaces\TLSProxy\src\SVTServer\Release\ca.crt
+2017/11/01 09:18:38 Waiting for command.
+2017/11/01 09:18:38 Cmd: 0, Param: :8800
+2017/11/01 09:18:38 Command: 0, Parameter: :8800
+2017/11/01 09:18:38 Start SVTServer
+2017/11/01 09:18:38 Listening for incoming connections at: [::]:8800
+2017/11/01 09:18:38 Waiting for command.
+2017/11/01 09:27:59 Read remote address: 10.1.1.99:80
+2017/11/01 09:27:59 Copying from 10.3.0.33:49710 to 10.1.1.99:80
+2017/11/01 09:27:59 Read remote address: 10.1.1.99:80
+2017/11/01 09:27:59 Copying from 10.3.0.33:49712 to 10.1.1.99:80
+2017/11/01 09:30:47 Read remote address: 10.1.1.99:80
+2017/11/01 09:30:47 Copying from 10.3.0.33:49859 to 10.1.1.99:80
+2017/11/01 14:22:36 Read remote address: 10.1.0.166:445
+2017/11/01 14:22:36 Copying from 10.3.0.33:56619 to 10.1.0.166:445
+2017/11/01 14:22:36 Read remote address: 10.1.0.166:445
+2017/11/01 14:22:36 Copying from 10.3.0.33:56623 to 10.1.0.166:445
+2017/11/01 14:22:37 Read remote address: 10.1.0.166:445
+2017/11/01 14:22:37 Copying from 10.3.0.33:56626 to 10.1.0.166:445
+2017/11/01 14:22:37 Read remote address: 10.1.0.166:445
+2017/11/01 14:22:37 Copying from 10.3.0.33:56629 to 10.1.0.166:445
+2017/11/01 14:22:37 Read remote address: 10.1.0.166:445
+2017/11/01 14:22:37 Copying from 10.3.0.33:56632 to 10.1.0.166:445
+2017/11/01 14:22:37 Read remote address: 10.1.0.166:445
+2017/11/01 14:22:37 Copying from 10.3.0.33:56637 to 10.1.0.166:445
+2017/11/01 14:22:37 Read remote address: 10.1.0.166:445
+2017/11/01 14:22:37 Copying from 10.3.0.33:56640 to 10.1.0.166:445
+2017/11/01 14:22:37 Read remote address: 10.1.0.166:445
+2017/11/01 14:22:37 Copying from 10.3.0.33:56643 to 10.1.0.166:445
+2017/11/01 14:22:38 Read remote address: 10.1.0.166:445
+2017/11/01 14:22:38 Copying from 10.3.0.33:56646 to 10.1.0.166:445
+2017/11/01 14:22:38 Read remote address: 10.1.0.166:445
+2017/11/01 14:22:38 Copying from 10.3.0.33:56649 to 10.1.0.166:445
+2017/11/01 14:22:38 Read remote address: 10.1.0.166:445
+2017/11/01 14:22:38 Copying from 10.3.0.33:56652 to 10.1.0.166:445
+2017/11/01 14:22:38 Read remote address: 10.1.0.166:445
+2017/11/01 14:22:38 Copying from 10.3.0.33:56655 to 10.1.0.166:445
+2017/11/01 14:22:38 Read remote address: 10.1.0.166:445
+2017/11/01 14:22:38 Copying from 10.3.0.33:56658 to 10.1.0.166:445
+2017/11/01 14:22:38 Read remote address: 10.1.0.166:445
+2017/11/01 14:22:38 Copying from 10.3.0.33:56661 to 10.1.0.166:445
+2017/11/01 14:22:39 Read remote address: 10.1.0.166:445
+2017/11/01 14:22:39 Copying from 10.3.0.33:56664 to 10.1.0.166:445
+2017/11/01 15:39:28 Srarting SVTServer Interface...
+2017/11/01 15:39:28 Cmd: 2, Param: ca.crt;ca.key;ca.crt
+2017/11/01 15:39:28 SVTServer Interface started.
+2017/11/01 15:39:28 Waiting for command.
+2017/11/01 15:39:28 Command: 2, Parameter: ca.crt;ca.key;ca.crt
+2017/11/01 15:39:28 Set keys from files: ca.crt;ca.key;ca.crt
+2017/11/01 15:39:28 Set keys: D:\Workspaces\TLSProxy\src\SVTServer\Release\ca.crt, D:\Workspaces\TLSProxy\src\SVTServer\Release\ca.key, D:\Workspaces\TLSProxy\src\SVTServer\Release\ca.crt
+2017/11/01 15:39:28 Waiting for command.
+2017/11/01 15:39:28 Cmd: 0, Param: :8800
+2017/11/01 15:39:28 Command: 0, Parameter: :8800
+2017/11/01 15:39:28 Start SVTServer
+2017/11/01 15:39:28 Listening for incoming connections at: [::]:8800
+2017/11/01 15:39:28 Waiting for command.
+2017/11/02 15:16:15 Srarting SVTServer Interface...
+2017/11/02 15:16:15 Cmd: 2, Param: ca.crt;ca.key;ca.crt
+2017/11/02 15:16:15 SVTServer Interface started.
+2017/11/02 15:16:15 Waiting for command.
+2017/11/02 15:16:15 Command: 2, Parameter: ca.crt;ca.key;ca.crt
+2017/11/02 15:16:15 Set keys from files: ca.crt;ca.key;ca.crt
+2017/11/02 15:16:15 Set keys: D:\Workspaces\TLSProxy\src\SVTServer\Release\ca.crt, D:\Workspaces\TLSProxy\src\SVTServer\Release\ca.key, D:\Workspaces\TLSProxy\src\SVTServer\Release\ca.crt
+2017/11/02 15:16:15 Waiting for command.
+2017/11/02 15:16:15 Cmd: 0, Param: :8800
+2017/11/02 15:16:15 Command: 0, Parameter: :8800
+2017/11/02 15:16:15 Start SVTServer
+2017/11/02 15:16:15 Listening for incoming connections at: [::]:8800
+2017/11/02 15:16:15 Waiting for command.
+2017/11/02 17:34:27 Read remote address: 10.1.1.99:80
+2017/11/02 17:34:27 Copying from 10.3.0.33:51532 to 10.1.1.99:80
+2018/01/02 15:21:40 Srarting SVTServer Interface...
+2018/01/02 15:21:40 Cmd: 2, Param: ca.crt;ca.key;ca.crt
+2018/01/02 15:21:40 SVTServer Interface started.
+2018/01/02 15:21:40 Waiting for command.
+2018/01/02 15:21:40 Command: 2, Parameter: ca.crt;ca.key;ca.crt
+2018/01/02 15:21:40 Set keys from files: ca.crt;ca.key;ca.crt
+2018/01/02 15:21:40 Set keys: E:\TLSProxy\src\SVTServer\Release\ca.crt, E:\TLSProxy\src\SVTServer\Release\ca.key, E:\TLSProxy\src\SVTServer\Release\ca.crt
+2018/01/02 15:21:41 Waiting for command.
+2018/01/02 15:21:41 Cmd: 0, Param: :8800
+2018/01/02 15:21:41 Command: 0, Parameter: :8800
+2018/01/02 15:21:41 Start SVTServer
+2018/01/02 15:21:41 Listening for incoming connections at: [::]:8800
+2018/01/02 15:21:41 Waiting for command.

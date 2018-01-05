@@ -1,0 +1,7 @@
+E:\TLSProxy\src\SVTServer\SVTServerService\bin\Debug\SVTServerService.exe
+E:\TLSProxy\src\SVTServer\SVTServerService\bin\Debug\SVTServerService.pdb
+E:\TLSProxy\src\SVTServer\SVTServerService\obj\Debug\SVTServerService.SVTServerService.resources
+E:\TLSProxy\src\SVTServer\SVTServerService\obj\Debug\SVTServerService.csproj.GenerateResource.Cache
+E:\TLSProxy\src\SVTServer\SVTServerService\obj\Debug\SVTServerService.exe
+E:\TLSProxy\src\SVTServer\SVTServerService\obj\Debug\SVTServerService.pdb
+E:\TLSProxy\src\SVTServer\SVTServerService\obj\Debug\SVTServerService.ProjectInstaller.resources

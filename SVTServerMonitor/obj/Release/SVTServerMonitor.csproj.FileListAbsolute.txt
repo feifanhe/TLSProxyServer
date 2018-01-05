@@ -1,0 +1,8 @@
+E:\TLSProxy\src\SVTServer\SVTServerMonitor\bin\Release\SVTServerMonitor.exe
+E:\TLSProxy\src\SVTServer\SVTServerMonitor\bin\Release\SVTServerMonitor.pdb
+E:\TLSProxy\src\SVTServer\SVTServerMonitor\obj\Release\SVTServerMonitor.MainForm.resources
+E:\TLSProxy\src\SVTServer\SVTServerMonitor\obj\Release\SVTServerMonitor.Properties.Resources.resources
+E:\TLSProxy\src\SVTServer\SVTServerMonitor\obj\Release\SVTServerMonitor.csproj.GenerateResource.Cache
+E:\TLSProxy\src\SVTServer\SVTServerMonitor\obj\Release\SVTServerMonitor.exe
+E:\TLSProxy\src\SVTServer\SVTServerMonitor\obj\Release\SVTServerMonitor.pdb
+E:\TLSProxy\src\SVTServer\SVTServerMonitor\obj\Release\SVTServerMonitor.csprojResolveAssemblyReference.cache

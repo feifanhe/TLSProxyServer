@@ -1,0 +1,15 @@
+E:\TLSProxy\src\SVTServer\SVTServerService\bin\Release\SVTServerService.exe
+E:\TLSProxy\src\SVTServer\SVTServerService\bin\Release\SVTServerService.pdb
+E:\TLSProxy\src\SVTServer\SVTServerService\obj\Release\SVTServerService.ProjectInstaller.resources
+E:\TLSProxy\src\SVTServer\SVTServerService\obj\Release\SVTServerService.SVTServerService.resources
+E:\TLSProxy\src\SVTServer\SVTServerService\obj\Release\SVTServerService.csproj.GenerateResource.Cache
+E:\TLSProxy\src\SVTServer\SVTServerService\obj\Release\SVTServerService.exe
+E:\TLSProxy\src\SVTServer\SVTServerService\obj\Release\SVTServerService.pdb
+D:\Workspaces\TLSProxy\src\SVTServer\SVTServerService\bin\Release\SVTServerService.exe
+D:\Workspaces\TLSProxy\src\SVTServer\SVTServerService\bin\Release\SVTServerService.pdb
+D:\Workspaces\TLSProxy\src\SVTServer\SVTServerService\obj\Release\SVTServerService.csprojResolveAssemblyReference.cache
+D:\Workspaces\TLSProxy\src\SVTServer\SVTServerService\obj\Release\SVTServerService.ProjectInstaller.resources
+D:\Workspaces\TLSProxy\src\SVTServer\SVTServerService\obj\Release\SVTServerService.SVTServerService.resources
+D:\Workspaces\TLSProxy\src\SVTServer\SVTServerService\obj\Release\SVTServerService.csproj.GenerateResource.Cache
+D:\Workspaces\TLSProxy\src\SVTServer\SVTServerService\obj\Release\SVTServerService.exe
+D:\Workspaces\TLSProxy\src\SVTServer\SVTServerService\obj\Release\SVTServerService.pdb
